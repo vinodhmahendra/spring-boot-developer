@@ -1,0 +1,8 @@
+message: "Hello Spring Boot 2!"
+
+---
+
+spring:
+  profiles:
+  - production
+message: Hello from production file! 
